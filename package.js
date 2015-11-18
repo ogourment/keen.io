@@ -1,7 +1,8 @@
 Package.describe({
   name: 'ogourment:keen.io',
   summary: 'Use keen.io from https://gist.github.com/zlot/fb197e80f97df035e220',
-  version: '0.0.1'
+  version: '0.0.1',
+  git: 'https://github.com/ogourment/keen.io.git'
 });
 
 Package.on_use(function (api) {
